@@ -1,4 +1,6 @@
 #!/bin/bash
+# Uso
+# ./git-commit-copy.sh <hash1> <hash2> <path>
 
 # Diretório de destino
 PATH=$3
